@@ -9,6 +9,11 @@
             "id": 2,
             "content": "test content 2",
             "author": "Gosho"
+        },
+        {
+            "id": 3,
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae placeat excepturi maiores doloribus ipsa quibusdam nostrum deserunt harum, dolores nihil eligendi vel totam pariatur assumenda illo labore error rem praesentium optio suscipit corporis vero dignissimos? Nulla, delectus! Nostrum amet modi officiis earum officia quis adipisci, nulla sapiente itaque, a vel.",
+            "author": "Ivan"
         }
     ]
 }
